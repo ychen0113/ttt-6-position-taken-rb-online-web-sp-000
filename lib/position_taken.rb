@@ -7,6 +7,6 @@ def position_taken?(board, index)
    elsif (board[index] = "X")
      true 
      elsif (board[index] = "O")
-     position_taken? = true
+     true
 end
 end
